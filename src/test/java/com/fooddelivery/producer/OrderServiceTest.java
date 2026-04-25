@@ -101,4 +101,3 @@ class OrderServiceTest {
         assertThat(kafka.sent).isEmpty();
     }
 }
-// agent: added invalid-transition coverage in pass 1
