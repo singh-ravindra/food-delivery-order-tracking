@@ -76,4 +76,3 @@ class OrderLifecycleIntegrationTest {
     }
 }
 
-// agent: added partition-stability assertion in pass 1
